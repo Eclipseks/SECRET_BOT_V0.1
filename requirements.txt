@@ -1,0 +1,7 @@
+aiogram
+numpy
+datetime
+asyncio
+requests
+python-valve
+pillow
